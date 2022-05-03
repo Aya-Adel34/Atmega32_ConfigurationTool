@@ -2,7 +2,7 @@
 # GUI Configuration Tool
 
 
-This is a GUI to Configuration Tool using QtDesigner. It Configures Atmega32 Pins and Generates a Header File at any Path, Contains All The Pins Configurations so you can Directly Use it in your Project.
+This is a GUI to Configuration Tool using QtDesigner. It Configures Atmega32 Pins and Generates a Header File at any Path, Contains All The Pins Configurations so I can Directly Use it in My Port Driver.
 
 # Screenshoots
 
